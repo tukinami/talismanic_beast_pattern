@@ -1,0 +1,4 @@
+charset,UTF-8
+type,balloon
+name,魔除けの獣面紋
+directory,talismanic_beast_pattern
