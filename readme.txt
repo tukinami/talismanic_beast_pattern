@@ -32,12 +32,13 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 連絡先
 ------------------------------------------------------------
-Peing質問箱(https://peing.net/ja/tukinami_seika)
+Wavebox(https://wavebox.me/wave/ersk1ec23kr3hrqr/)
 
 バグ報告・感想・要望等、お気軽にどうぞ。
 
 
 更新履歴
 ------------------------------------------------------------
-2013-01-24: readme.txt更新(レポジトリのみ)。
+2025-08-15: readme.txt更新。
+2023-01-24: readme.txt更新(レポジトリのみ)。
 2023-01-19: 初版公開。
